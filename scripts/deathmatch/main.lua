@@ -1,0 +1,1 @@
+loadScript("deathmatch/miscCommands")
